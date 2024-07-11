@@ -79,7 +79,8 @@ project
 export LD_LIBRARY_PATH=$(pwd)/lib:$LD_LIBRARY_PATH
 ```
 
-
+    2. 编译C++代码
+    2. 
 
 ### C++ 常用库
 
@@ -95,3 +96,4 @@ export LD_LIBRARY_PATH=$(pwd)/lib:$LD_LIBRARY_PATH
 
 ------
 
+ 
